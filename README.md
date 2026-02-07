@@ -74,13 +74,13 @@ This workflow ensures clean architecture, reliable data handling, and easy exten
 ## 🚀 Live Demo
 
 - **Base URL:**  
-  https://job-application-tracker-<id>.onrender.com
+  https://job-application-tracker-quwt.onrender.com
 
 - **Swagger API Docs:**  
-  https://job-application-tracker-<id>.onrender.com/docs
+  https://job-application-tracker-quwt.onrender.com/docs
 
 - **Analytics Endpoint:**  
-  https://job-application-tracker-<id>.onrender.com/analytics/status-count
+  https://job-application-tracker-quwt.onrender.com/analytics/status-count
   
 ---
 
@@ -153,4 +153,5 @@ job-application-tracker/
 
 ## Author:
   Anusha K A
+
 
