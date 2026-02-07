@@ -8,5 +8,5 @@ __pycache__/
 # Environment variables
 .env
 
-# Database (optional – keep if you want local only)
+# Database (optional – ignore if you want clean repo)
 jobs_tracker.db
